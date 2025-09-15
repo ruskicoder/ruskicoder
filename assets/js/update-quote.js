@@ -17,9 +17,23 @@ const START_MARK = '<!--STARTS_HERE_QUOTE_CARD-->';
 const END_MARK = '<!--ENDS_HERE_QUOTE_CARD-->';
 
 function loadQuotes() {
-  if (!fs.existsSync(QUOTES_PATH)) throw new Error('Missing quotes.json at repo root.');
+  if (!fs.existsSync(QUOTES_PATH)) {
+    console.warn('quotes.json not found. Using embedded fallback quotes.');
+    return [
+      { quote: 'Programs must be written for people to read, and only incidentally for machines to execute.', author: 'Harold Abelson' },
+      { quote: 'Simplicity is prerequisite for reliability.', author: 'Edsger W. Dijkstra' },
+      { quote: 'Premature optimization is the root of all evil.', author: 'Donald Knuth' },
+      { quote: 'Talk is cheap. Show me the code.', author: 'Linus Torvalds' }
+    ];
+  }
   const data = JSON.parse(fs.readFileSync(QUOTES_PATH, 'utf8'));
-  if (!Array.isArray(data) || data.length === 0) throw new Error('quotes.json must be a non-empty array.');
+  if (!Array.isArray(data) || data.length === 0) {
+    console.warn('quotes.json empty or invalid. Falling back to embedded quotes.');
+    return [
+      { quote: 'Any fool can write code that a computer can understand. Good programmers write code that humans can understand.', author: 'Martin Fowler' },
+      { quote: 'Controlling complexity is the essence of computer programming.', author: 'Brian Kernighan' }
+    ];
+  }
   return data;
 }
 

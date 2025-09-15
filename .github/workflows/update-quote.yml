@@ -21,6 +21,11 @@ jobs:
         with:
           node-version: 20
 
+      - name: Diagnostics (quotes.json presence)
+        run: |
+          ls -1
+          if [ -f quotes.json ]; then echo 'quotes.json found'; else echo 'quotes.json MISSING'; fi
+
       - name: Run quote updater
         run: |
           node assets/js/update-quote.js
