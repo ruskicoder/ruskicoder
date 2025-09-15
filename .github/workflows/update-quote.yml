@@ -1,0 +1,38 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 00:00 UTC daily
+  workflow_dispatch: {}
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      QUOTE_TZ: Asia/Bangkok
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run quote updater
+        run: |
+          node assets/js/update-quote.js
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No quote change.";
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add README.md
+            git commit -m 'chore(quote): daily update'
+            git push
+          fi
