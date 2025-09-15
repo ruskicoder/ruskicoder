@@ -128,7 +128,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <p align="center">
   <a href="https://github.com/ruskicoder" title="GitHub"><img src="assets/img/github.png" alt="GitHub" width="48" /></a>
   <a href="mailto:khoado7577@gmail.com" title="Email"><img src="assets/img/gmail.png" alt="Email" width="48" /></a>
-  <a href="Linkedin.com/in/đỗ-đăng-khoa-573776308/" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn" width="48" /></a>
+  <a href="https://Linkedin.com/in/đỗ-đăng-khoa-573776308/" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn" width="48" /></a>
   
   <!-- Add more icons: X/Twitter, Mastodon, Dev.to, etc. Place assets in assets/img/ -->
 </p>
