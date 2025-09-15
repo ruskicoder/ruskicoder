@@ -22,6 +22,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
+          # Enable isometric (isocalendar) commit calendar plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Commit metrics
