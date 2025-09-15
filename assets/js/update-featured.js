@@ -15,7 +15,8 @@ const path = require('path');
 const https = require('https');
 
 const USER = 'ruskicoder';
-const README_PATH = path.join(__dirname, '../../README.md');
+// Resolve README relative to repo root (two levels up from assets/js)
+const README_PATH = path.join(__dirname, '..', '..', 'README.md');
 const START = '<!--START_FEATURED_PROJECTS-->';
 const END = '<!--END_FEATURED_PROJECTS-->';
 const COUNT = parseInt(process.env.FEATURED_COUNT || '3', 10);
@@ -70,11 +71,12 @@ async function buildTable() {
   const filtered = repos.filter(r => !r.fork && !r.archived && r.name.toLowerCase() !== USER.toLowerCase());
   filtered.sort((a,b) => score(b) - score(a));
   const picked = [];
-  const used = new Set();
   for (const r of filtered) {
     if (picked.length >= COUNT) break;
     picked.push(r);
-    used.add(r.name);
+  }
+  if (!picked.length) {
+    return `${START}\n| Project | Description | Tech |\n|---------|-------------|------|\n| _No qualifying repositories yet_ | Create or update public repos to populate this section | — |\n${END}`;
   }
   const header = '| Project | Description | Tech |\n|---------|-------------|------|';
   const rows = picked.map(formatRow).join('\n');
@@ -82,21 +84,33 @@ async function buildTable() {
 }
 
 function replaceSection(readme, table) {
-  const re = new RegExp(`${START}[\s\S]*?${END}`);
+  const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, r => `\\${r}`);
+  const re = new RegExp(`${esc(START)}[\r\n]*[\s\S]*?${esc(END)}`);
   if (re.test(readme)) return readme.replace(re, table);
+  // Fallback manual slice replacement if both markers present but regex failed (line ending anomalies)
+  const startIdx = readme.indexOf(START);
+  const endIdx = readme.indexOf(END);
+  if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
+    const afterEnd = endIdx + END.length;
+    return readme.slice(0, startIdx) + table + readme.slice(afterEnd);
+  }
   return readme;
 }
 
 async function main() {
   try {
+    if (!fs.existsSync(README_PATH)) {
+      console.error('README.md not found at path:', README_PATH);
+      process.exit(1);
+    }
     const table = await buildTable();
     const readme = fs.readFileSync(README_PATH, 'utf8');
     const updated = replaceSection(readme, table);
     if (updated !== readme) {
       fs.writeFileSync(README_PATH, updated, 'utf8');
-      console.log('Featured projects updated.');
+      console.log('Featured projects updated');
     } else {
-      console.log('No changes to featured projects section.');
+      console.log('No changes');
     }
   } catch (e) {
     console.error('Failed to update featured projects:', e.message);
