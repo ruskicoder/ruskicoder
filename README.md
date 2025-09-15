@@ -80,6 +80,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 
 ## 💬 Random Dev Quote
 
+<!--STARTS_HERE_QUOTE_CARD-->
+> “The people who succeed are irrationally passionate about something.”  
+> — Naval Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
 <!-- Daily quote auto-updated by .github/workflows/update-quote.yml (runs at 00:00 UTC / 07:00 Asia-Bangkok). -->
 <!-- To force an update manually: `node assets/js/update-quote.js` and commit. -->
 

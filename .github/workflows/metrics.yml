@@ -26,7 +26,16 @@ jobs:
 
       - name: Commit metrics
         run: |
-          if git diff --quiet metrics.svg; then
+          # Safely handle first run when metrics.svg does not yet exist
+          if [ ! -f metrics.svg ]; then
+            echo "metrics.svg not found after generation step. Listing repo root for diagnostics:";
+            ls -al
+            echo "No metrics.svg to commit (possibly generation failed).";
+            exit 0
+          fi
+
+          # Use -- to separate path to avoid ambiguity
+          if git diff --quiet -- metrics.svg; then
             echo "No changes in metrics.svg"
           else
             git config user.name 'github-actions[bot]'
