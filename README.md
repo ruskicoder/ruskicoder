@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Nothing like a health problem to turn up the contrast dial for the rest of life.”  
+> — Naval Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “No one can compete with you on being you. Most of life is a search for who and what needs you the most.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
