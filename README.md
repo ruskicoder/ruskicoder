@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.”  
+> — Naval Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Nothing like a health problem to turn up the contrast dial for the rest of life.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
