@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You make your own luck if you stay at it long enough.”  
+> — Naval Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
