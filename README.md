@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.”  
+> — Nelson Mandela
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “You make your own luck if you stay at it long enough.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
