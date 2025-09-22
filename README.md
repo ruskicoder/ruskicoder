@@ -70,8 +70,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [fcj-workshop-template-main](https://github.com/ruskicoder/fcj-workshop-template-main) | FCJ workshop template | JavaScript |
 | [coursera-tool-fbt](https://github.com/ruskicoder/coursera-tool-fbt) | An automation tool that does Coursera courses automatically. Designed for FBT-Un | JavaScript |
-| [FCJ-Intern_Report](https://github.com/ruskicoder/FCJ-Intern_Report) | default html website for internship at FCJ | HTML |
 | [pdf-download-drive](https://github.com/ruskicoder/pdf-download-drive) | Extension that enables downloading for view-only files in Google Drive | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
