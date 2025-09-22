@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “It always seems impossible until it's done.”  
+> — Nelson Mandela
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Live life as though nobody is watching, and express yourself as though everyone is listening.”  
 > — Nelson Mandela
 <!--ENDS_HERE_QUOTE_CARD-->
