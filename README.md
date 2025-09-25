@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Where the willingness is great, the difficulties cannot be great.”  
+> — Niccolo Machiavelli
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “He who wishes to be obeyed must know how to command.”  
 > — Niccolo Machiavelli
 <!--ENDS_HERE_QUOTE_CARD-->
