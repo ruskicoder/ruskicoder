@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “It is not titles that honour men, but men that honour titles.”  
+> — Niccolo Machiavelli
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Everyone sees what you appear to be, few experience what you really are.”  
 > — Niccolo Machiavelli
 <!--ENDS_HERE_QUOTE_CARD-->
