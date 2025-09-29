@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Make no small plans for they have no power to stir the soul.”  
+> — Niccolo Machiavelli
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “It is not titles that honour men, but men that honour titles.”  
 > — Niccolo Machiavelli
 <!--ENDS_HERE_QUOTE_CARD-->
