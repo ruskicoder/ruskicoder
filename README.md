@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Attitude is a little thing that makes a big difference.”  
+> — Winston Churchill
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Throw your heart over the fence and the rest will follow”  
 > — Norman Vincent Peale
 <!--ENDS_HERE_QUOTE_CARD-->
