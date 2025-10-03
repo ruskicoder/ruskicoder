@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.”  
+> — Winston Churchill
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Success is going from failure to failure without losing your enthusiasm”  
 > — Winston Churchill
 <!--ENDS_HERE_QUOTE_CARD-->
