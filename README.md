@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Confidence is what you have before you understand the problem.”  
+> — Woody Allen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The farther backward you can look, the farther forward you are likely to see.”  
 > — Winston Churchill
 <!--ENDS_HERE_QUOTE_CARD-->
