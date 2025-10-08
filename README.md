@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The heart wants what it wants. There's no logic.”  
+> — Woody Allen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If you want to make God laugh, tell him about your plans.”  
 > — Woody Allen
 <!--ENDS_HERE_QUOTE_CARD-->
