@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [zalo-linux](https://github.com/ruskicoder/zalo-linux) | A Linux distribution of Zalo app ported from MacOS | JavaScript |
 | [fcj-workshop-template-main](https://github.com/ruskicoder/fcj-workshop-template-main) | FCJ workshop template | JavaScript |
-| [coursera-tool-fbt](https://github.com/ruskicoder/coursera-tool-fbt) | An automation tool that does Coursera courses automatically. Designed for FBT-Un | JavaScript |
+| [zalo-linux](https://github.com/ruskicoder/zalo-linux) | A Linux distribution of Zalo app ported from MacOS | JavaScript |
+| [ai-dlc-methodology](https://github.com/ruskicoder/ai-dlc-methodology) | Documenting the AI-DLC methodology of agentic AI | — |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
