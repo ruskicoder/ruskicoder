@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Each time we don't say what we wanna say, we're dying.”  
+> — Yoko Ono
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If you're not failing every now and again, it's a sign you're not doing anything very innovative.”  
 > — Woody Allen
 <!--ENDS_HERE_QUOTE_CARD-->
