@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Every drop in the ocean counts.”  
+> — Yoko Ono
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Each time we don't say what we wanna say, we're dying.”  
 > — Yoko Ono
 <!--ENDS_HERE_QUOTE_CARD-->
