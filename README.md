@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “A strong man overcomes an obstacle, a wise man goes the whole way.”  
+> — Zen Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “A dream you dream alone is only a dream. A dream you dream together is reality.”  
 > — Yoko Ono
 <!--ENDS_HERE_QUOTE_CARD-->
