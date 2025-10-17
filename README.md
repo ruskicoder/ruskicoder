@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When you reach the top of the mountain, keep climbing.”  
+> — Zen Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The best time to plant a tree was 20 years ago. The second best time is now.”  
 > — Zen Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
