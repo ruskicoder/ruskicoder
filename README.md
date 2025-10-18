@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Whatever happens always happens on time.”  
+> — Zen Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “When you reach the top of the mountain, keep climbing.”  
 > — Zen Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
