@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Do not use life to give life to death. Do not use death to bring death to life.”  
+> — Zhuangzi
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Don't be afraid to go slowly. Be afraid of stopping.”  
 > — Zen Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
