@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “A path is made by walking on it.”  
+> — Zhuangzi
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Rewards and punishment is the lowest form of education.”  
 > — Zhuangzi
 <!--ENDS_HERE_QUOTE_CARD-->
