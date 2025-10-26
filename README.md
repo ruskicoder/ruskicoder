@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We are born from a quiet sleep, and we die to a calm awakening”  
+> — Zhuangzi
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Cease striving. Then there will be transformation.”  
 > — Zhuangzi
 <!--ENDS_HERE_QUOTE_CARD-->
