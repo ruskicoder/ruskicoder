@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Happiness is the absence of the striving for happiness.”  
+> — Zhuangzi
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Understanding that rests in what it does not understand is the finest.”  
 > — Zhuangzi
 <!--ENDS_HERE_QUOTE_CARD-->
