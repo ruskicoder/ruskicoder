@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Outstanding people have one thing in common: an absolute sense of mission.”  
+> — Zig Ziglar
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Happiness is the absence of the striving for happiness.”  
 > — Zhuangzi
 <!--ENDS_HERE_QUOTE_CARD-->
