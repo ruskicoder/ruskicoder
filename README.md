@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.”  
+> — Zig Ziglar
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.”  
 > — Zig Ziglar
 <!--ENDS_HERE_QUOTE_CARD-->
