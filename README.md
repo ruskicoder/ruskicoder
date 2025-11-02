@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We think too much and feel too little.”  
+> — Charlie Chaplin
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Nothing is permanent in this wicked world - not even our troubles.”  
 > — Charlie Chaplin
 <!--ENDS_HERE_QUOTE_CARD-->
