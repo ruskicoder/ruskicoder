@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Imagination means nothing without doing.”  
+> — Charlie Chaplin
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If you're really truthful with yourself, it's a wonderful guidance.”  
 > — Charlie Chaplin
 <!--ENDS_HERE_QUOTE_CARD-->
