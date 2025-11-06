@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life can be wonderful if you're not afraid of it.”  
+> — Charlie Chaplin
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Imagination means nothing without doing.”  
 > — Charlie Chaplin
 <!--ENDS_HERE_QUOTE_CARD-->
