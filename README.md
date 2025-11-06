@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [fcj-proposal](https://github.com/ruskicoder/fcj-proposal) | FCJ SkyLine2 Proposal Hugo site. | JavaScript |
 | [fcj-workshop-template-main](https://github.com/ruskicoder/fcj-workshop-template-main) | FCJ workshop template | JavaScript |
 | [zalo-linux](https://github.com/ruskicoder/zalo-linux) | A Linux distribution of Zalo app ported from MacOS | JavaScript |
-| [ai-dlc-methodology](https://github.com/ruskicoder/ai-dlc-methodology) | Documenting the AI-DLC methodology of agentic AI | — |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
