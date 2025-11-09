@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Don't let the past steal your present.”  
+> — Cherralea Morgen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The best dreams happen when you're awake.”  
 > — Cherie Gilderbloom
 <!--ENDS_HERE_QUOTE_CARD-->
