@@ -70,8 +70,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [apple.appstore.web](https://github.com/ruskicoder/apple.appstore.web) |  An arhive of Apple's web Appstore | HTML |
 | [fcj-proposal](https://github.com/ruskicoder/fcj-proposal) | FCJ SkyLine2 Proposal Hugo site. | JavaScript |
+| [apple.appstore.web](https://github.com/ruskicoder/apple.appstore.web) |  An arhive of Apple's web Appstore | HTML |
 | [fcj-workshop-template-main](https://github.com/ruskicoder/fcj-workshop-template-main) | FCJ workshop template | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
