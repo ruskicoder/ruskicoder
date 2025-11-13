@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Better to light a candle than to curse the darkness.”  
+> — Chinese Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Teachers open the door. You enter by yourself.”  
 > — Chinese Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
