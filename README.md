@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To be totally at leisure for one day is to be immortal for one day.”  
+> — Chinese Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Patience is a bitter plant, but its fruit is sweet.”  
 > — Chinese Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
