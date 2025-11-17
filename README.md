@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Distant water does not put out a nearby fire.”  
+> — Chinese Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Fool me once, shame on you; fool me twice, shame on me.”  
 > — Chinese Proverb
 <!--ENDS_HERE_QUOTE_CARD-->
