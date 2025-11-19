@@ -70,7 +70,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [insight-hr-static-web](https://github.com/ruskicoder/insight-hr-static-web) | static web interface of insightHR | — |
+| [insight-hr-static-web](https://github.com/ruskicoder/insight-hr-static-web) | static web interface of insightHR | PowerShell |
 | [fcj-proposal](https://github.com/ruskicoder/fcj-proposal) | FCJ SkyLine2 Proposal Hugo site. | JavaScript |
 | [apple.appstore.web](https://github.com/ruskicoder/apple.appstore.web) |  An arhive of Apple's web Appstore | HTML |
 <!--END_FEATURED_PROJECTS-->
