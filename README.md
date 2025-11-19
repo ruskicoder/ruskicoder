@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Small men think they are small; great men never know they are great.”  
+> — Chinese Proverb
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The people who succeed are irrationally passionate about something.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
