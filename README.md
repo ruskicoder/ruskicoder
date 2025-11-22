@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You play the hand you're dealt. I think the game's worthwhile.”  
+> — Christopher Reeve
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If I can laugh, I can live.”  
 > — Christopher Reeve
 <!--ENDS_HERE_QUOTE_CARD-->
