@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Once you choose hope, anything's possible.”  
+> — Christopher Reeve
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “A hero is an ordinary person doing things in an extra ordinary way.”  
 > — Christopher Reeve
 <!--ENDS_HERE_QUOTE_CARD-->
