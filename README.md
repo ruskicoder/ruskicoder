@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “At first dreams seem impossible, then improbable, then inevitable.”  
+> — Christopher Reeve
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Words can only have a positive effect on others if and when they are ready to listen.”  
 > — Christopher Reeve
 <!--ENDS_HERE_QUOTE_CARD-->
