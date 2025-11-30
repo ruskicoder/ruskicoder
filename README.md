@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Get mad, then get over it.”  
+> — Colin Powell
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “There are people who have money and people who are rich.”  
 > — Coco Chanel
 <!--ENDS_HERE_QUOTE_CARD-->
