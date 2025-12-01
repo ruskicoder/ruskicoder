@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The sun shines upon good and bad alike.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Get mad, then get over it.”  
 > — Colin Powell
 <!--ENDS_HERE_QUOTE_CARD-->
