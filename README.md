@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To be of use to the world is the only way to be happy.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Death walks faster than the wind and never returns what he has taken.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
