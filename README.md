@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life is like a beautiful melody, only the lyrics are messed up.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To be of use to the world is the only way to be happy.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
