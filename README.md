@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [insight-hr-static-web](https://github.com/ruskicoder/insight-hr-static-web) | static web interface of insightHR | PowerShell |
 | [coursera-tool-fbt](https://github.com/ruskicoder/coursera-tool-fbt) | An automation tool that does Coursera courses automatically. Designed for FBT-Un | JavaScript |
 | [fap-exam-extract-extension](https://github.com/ruskicoder/fap-exam-extract-extension) | Extract exam schedules for FAP website | JavaScript |
-| [insight-hr-static-web](https://github.com/ruskicoder/insight-hr-static-web) | static web interface of insightHR | PowerShell |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
