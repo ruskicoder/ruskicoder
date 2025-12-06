@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Where words fail, music speaks.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Just living is not enough... one must have sunshine, freedom, and a little flower.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
