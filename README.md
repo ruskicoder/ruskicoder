@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We cannot expect to be happy always... by experiencing evil as well as good we become wise.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Everything you look at can become a fairy tale and you can get a story from everything you touch.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
