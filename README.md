@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The whole world is a series of miracles, but we're so used to them we call them ordinary things.”  
+> — Hans Christian Andersen
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We cannot expect to be happy always... by experiencing evil as well as good we become wise.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
