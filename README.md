@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.”  
+> — Helen Keller
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The whole world is a series of miracles, but we're so used to them we call them ordinary things.”  
 > — Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_CARD-->
