@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life is either a daring adventure, or it is nothing.”  
+> — Helen Keller
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.”  
 > — Helen Keller
 <!--ENDS_HERE_QUOTE_CARD-->
