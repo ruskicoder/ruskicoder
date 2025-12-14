@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 | [fcj-worklog](https://github.com/ruskicoder/fcj-worklog) | My FCJ worklog | HTML |
 | [fcj-workshop-template-main](https://github.com/ruskicoder/fcj-workshop-template-main) | FCJ workshop template | JavaScript |
-| [insight-hr-static-web](https://github.com/ruskicoder/insight-hr-static-web) | static web interface of insightHR | PowerShell |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
