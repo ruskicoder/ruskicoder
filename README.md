@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Alone we can do so little; together we can do so much.”  
+> — Helen Keller
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Walking with a friend in the dark is better than walking alone in the light.”  
 > — Helen Keller
 <!--ENDS_HERE_QUOTE_CARD-->
