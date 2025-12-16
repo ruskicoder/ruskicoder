@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Your success and happiness lie in you.”  
+> — Helen Keller
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Avoiding danger is no safer in the long run than exposure.”  
 > — Helen Keller
 <!--ENDS_HERE_QUOTE_CARD-->
