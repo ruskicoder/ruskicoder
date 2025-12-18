@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Dreams are the touchstones of our characters.”  
+> — Henry David Thoreau
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “What you get by achieving your goals is not as important as what you become by achieving your goals.”  
 > — Henry David Thoreau
 <!--ENDS_HERE_QUOTE_CARD-->
