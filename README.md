@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You can't build a reputation on what you are going to do.”  
+> — Henry Ford
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Not until we are lost do we begin to understand ourselves.”  
 > — Henry David Thoreau
 <!--ENDS_HERE_QUOTE_CARD-->
