@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The only real mistake is the one from which we learn nothing.”  
+> — Henry Ford
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Chop your own wood and it will warm you twice.”  
 > — Henry Ford
 <!--ENDS_HERE_QUOTE_CARD-->
