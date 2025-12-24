@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Whether you think you can or think you can't – you are right.”  
+> — Henry Ford
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Most people get ahead during the time that others waste.”  
 > — Henry Ford
 <!--ENDS_HERE_QUOTE_CARD-->
