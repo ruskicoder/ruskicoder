@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Obstacles are those frightful things you see when you take your eyes off your goal.”  
+> — Henry Ford
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Failure is simply the opportunity to begin again, this time more intelligently.”  
 > — Henry Ford
 <!--ENDS_HERE_QUOTE_CARD-->
