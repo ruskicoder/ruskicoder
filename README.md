@@ -70,7 +70,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [fap-aio](https://github.com/ruskicoder/fap-aio) | the all-in-one fap enhancer with many features combined from separate extensions | — |
+| [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | HTML |
 | [swp-hiv-clinic](https://github.com/ruskicoder/swp-hiv-clinic) | SE1842 | JavaScript |
 | [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 <!--END_FEATURED_PROJECTS-->
