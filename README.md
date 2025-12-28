@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The only real security that a man can have in this world is a reserve of knowledge, experience and ability.”  
+> — Henry Ford
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.”  
 > — Henry Ford
 <!--ENDS_HERE_QUOTE_CARD-->
