@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “No man ever steps in the same river twice, for it's not the same river and he's not the same man.”  
+> — Heraclitus
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Nothing endures but change.”  
 > — Heraclitus
 <!--ENDS_HERE_QUOTE_CARD-->
