@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Decide what your truth is. Then live it.”  
+> — Kamal Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “I am not the outcome. I am never the result. I am only the effort.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
