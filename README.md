@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life is a series of choices and all we can do is make them.”  
+> — Kamal Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
