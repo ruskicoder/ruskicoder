@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life is from the inside out. When you shift on the inside, life shifts on the outside.”  
+> — Kamal Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Pain doesn't last. And when it's gone, we have something to show for it. Growth.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
