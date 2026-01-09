@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.”  
+> — Kamal Ravikant
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If there's a definition of freedom, I think it's this: living life on your terms.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
