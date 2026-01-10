@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To the mind that is still, the whole universe surrenders.”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
