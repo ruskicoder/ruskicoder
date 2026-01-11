@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To the mind that is still, the whole universe surrenders.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
