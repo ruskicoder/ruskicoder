@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Do you have the patience to wait until your mud settles and the water is clear?”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Care about what other people think and you will always be their prisoner.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
