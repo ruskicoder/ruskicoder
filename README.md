@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “If you correct your mind, the rest of your life will fall into place.”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Do you have the patience to wait until your mud settles and the water is clear?”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
