@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Manifest plainness, embrace simplicity, reduce selfishness, have few desires.”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Nature does not hurry, yet everything is accomplished.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
