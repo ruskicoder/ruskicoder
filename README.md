@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Knowledge is a treasure, but practice is the key to it.”  
+> — Lao Tzu
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Freedom from desire leads to inner peace.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
