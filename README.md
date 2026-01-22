@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Originality is the fine art of remembering what you hear but forgetting where you heard it.”  
+> — Laurence J. Peter
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To lead the people, walk behind them.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
