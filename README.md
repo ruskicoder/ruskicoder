@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “As a matter of fact is an expression that precedes many an expression that isn't.”  
+> — Laurence J. Peter
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If you don't know where you're going, you will probably end up somewhere else.”  
 > — Laurence J. Peter
 <!--ENDS_HERE_QUOTE_CARD-->
