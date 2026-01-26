@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “An intelligence test sometimes shows a man how smart he would have been not to have taken it.”  
+> — Laurence J. Peter
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “As a matter of fact is an expression that precedes many an expression that isn't.”  
 > — Laurence J. Peter
 <!--ENDS_HERE_QUOTE_CARD-->
