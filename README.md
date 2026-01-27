@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Respect was invented to cover the empty place where love should be.”  
+> — Leo Tolstoy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “An intelligence test sometimes shows a man how smart he would have been not to have taken it.”  
 > — Laurence J. Peter
 <!--ENDS_HERE_QUOTE_CARD-->
