@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When you love someone, you love the person as they are, and not as you'd like them to be.”  
+> — Leo Tolstoy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “There is no greatness where there is not simplicity, goodness, and truth.”  
 > — Leo Tolstoy
 <!--ENDS_HERE_QUOTE_CARD-->
