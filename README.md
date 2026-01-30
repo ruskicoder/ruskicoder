@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Too many of us are not living our dreams because we are living our fears.”  
+> — Les Brown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “When you love someone, you love the person as they are, and not as you'd like them to be.”  
 > — Leo Tolstoy
 <!--ENDS_HERE_QUOTE_CARD-->
