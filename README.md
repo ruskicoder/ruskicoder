@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When you repeat a mistake, it is not a mistake anymore: it is a decision.”  
+> — Paulo Coelho
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Know your gifts and share them.”  
 > — Les Brown
 <!--ENDS_HERE_QUOTE_CARD-->
