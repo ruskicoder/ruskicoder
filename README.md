@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh that works like Meshtastic | — |
 | [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [swp-hiv-clinic](https://github.com/ruskicoder/swp-hiv-clinic) | SE1842 | JavaScript |
-| [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
