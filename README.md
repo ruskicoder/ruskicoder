@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When we strive to become better than we are, everything around us becomes better, too.”  
+> — Paulo Coelho
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Sometimes you have to travel a long way to find what is near.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
