@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.”  
+> — Pema Chodron
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We can spend our whole lives escaping from the monsters of our minds.”  
 > — Pema Chodron
 <!--ENDS_HERE_QUOTE_CARD-->
