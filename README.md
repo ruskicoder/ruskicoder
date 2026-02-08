@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You are the sky. Everything else - it's just the weather.”  
+> — Pema Chodron
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Hope and fear come from feeling that we lack something; they come from a sense of poverty.”  
 > — Pema Chodron
 <!--ENDS_HERE_QUOTE_CARD-->
