@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Be kind, for everyone you meet is fighting a harder battle.”  
+> — Plato
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Fear is a natural reaction to moving closer to the truth.”  
 > — Pema Chodron
 <!--ENDS_HERE_QUOTE_CARD-->
