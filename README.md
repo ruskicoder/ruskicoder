@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Courage is knowing what not to fear.”  
+> — Plato
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The most virtuous are those who content themselves with being virtuous without seeking to appear so.”  
 > — Plato
 <!--ENDS_HERE_QUOTE_CARD-->
