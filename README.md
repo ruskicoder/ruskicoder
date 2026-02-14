@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Wise men speak because they have something to say; Fools because they have to say something.”  
+> — Plato
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Human behavior flows from three main sources: desire, emotion, and knowledge.”  
 > — Plato
 <!--ENDS_HERE_QUOTE_CARD-->
