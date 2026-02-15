@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To do two things at once is to do neither.”  
+> — Publilius Syrus
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Wise men speak because they have something to say; Fools because they have to say something.”  
 > — Plato
 <!--ENDS_HERE_QUOTE_CARD-->
