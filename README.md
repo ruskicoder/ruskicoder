@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “No man is happy unless he believes he is.”  
+> — Publilius Syrus
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Debt is the slavery of the free.”  
 > — Publilius Syrus
 <!--ENDS_HERE_QUOTE_CARD-->
