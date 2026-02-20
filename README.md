@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Little minds have little worries, big minds have no time for worries.”  
+> — Ralph Waldo Emerson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The greatest of empires, is the empire over one's self.”  
 > — Publilius Syrus
 <!--ENDS_HERE_QUOTE_CARD-->
