@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When it is dark enough, you can see the stars.”  
+> — Ralph Waldo Emerson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To know even one life has breathed easier because you have lived. This is to have succeeded.”  
 > — Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_CARD-->
