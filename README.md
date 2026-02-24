@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “For every minute you are angry you lose sixty seconds of happiness.”  
+> — Ralph Waldo Emerson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Trust thyself: every heart vibrates to that iron string.”  
 > — Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_CARD-->
