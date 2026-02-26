@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “To be great is to be misunderstood.”  
+> — Ralph Waldo Emerson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “All life is an experiment. The more experiments you make, the better.”  
 > — Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_CARD-->
