@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Things do not have meaning. We assign meaning to everything.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Live in the sunshine, swim the sea, drink the wild air.”  
 > — Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_CARD-->
