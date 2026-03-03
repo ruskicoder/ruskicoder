@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Where focus goes, energy flows.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Your past does not equal your future.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
