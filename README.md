@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “It's not what we do once in a while that shapes our lives, but what we do consistently.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Where focus goes, energy flows.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
