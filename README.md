@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We will act consistently with our view of who we truly are, whether that view is accurate or not.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “It's not what we do once in a while that shapes our lives, but what we do consistently.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
