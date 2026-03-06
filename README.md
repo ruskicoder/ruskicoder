@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We will act consistently with our view of who we truly are, whether that view is accurate or not.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
