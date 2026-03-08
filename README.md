@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.”  
+> — Tony Robbins
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “If you can't, you must. If you must, you can.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
