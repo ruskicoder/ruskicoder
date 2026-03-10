@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Confuse them with your silence and amaze them with your actions.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The quality of your life is the quality of your relationships.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
