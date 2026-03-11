@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Avoiding failure is to avoid progress.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Confuse them with your silence and amaze them with your actions.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
