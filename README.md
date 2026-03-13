@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Winners don't Quit. That's why they Win.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We make a living by what we get, but we make a life by what we give.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
