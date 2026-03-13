@@ -70,7 +70,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh that works like Meshtastic | — |
+| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh that works like Meshtastic | C++ |
 | [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [swp-hiv-clinic](https://github.com/ruskicoder/swp-hiv-clinic) | SE1842 | JavaScript |
 <!--END_FEATURED_PROJECTS-->
