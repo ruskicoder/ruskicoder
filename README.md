@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Why compare yourself with others? No one in the entire world can do a better job of being you than you.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Winners don't Quit. That's why they Win.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
