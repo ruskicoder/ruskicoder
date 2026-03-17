@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Difficult roads often lead to beautiful destinations.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The impossible can always be broken down into possibilities.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
