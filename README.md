@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Never argue with ignorance. It only leads to frustration.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To wish you were someone else is to waste the person you are.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
