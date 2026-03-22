@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The real measure of your wealth is how much you'd be worth if you lost all your money.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Life is ten percent what you experience and ninety percent how you respond to it.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
