@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Turn the pain into power.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
