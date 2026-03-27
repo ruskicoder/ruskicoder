@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “A diamond is a piece of charcoal that handled stress exceptionally well.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “A little progress each day adds up to big results.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
