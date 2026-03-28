@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “What most people need to learn in life is how to love people and use things instead of using people and loving things.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “A diamond is a piece of charcoal that handled stress exceptionally well.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
