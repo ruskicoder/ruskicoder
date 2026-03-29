@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Learn to sit back and observe, not everything needs a reaction.”  
+> — Unknown
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “What most people need to learn in life is how to love people and use things instead of using people and loving things.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
