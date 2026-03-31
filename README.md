@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Perfection is not attainable, but if we chase perfection we can catch excellence.”  
+> — Vince Lombardi
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Confidence is contagious. So is lack of confidence.”  
 > — Vince Lombardi
 <!--ENDS_HERE_QUOTE_CARD-->
