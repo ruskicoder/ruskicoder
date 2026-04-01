@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Through selfless service, you will always be fruitful and find the fulfillment of your desires.”  
+> — Bhagavad Gita
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Perfection is not attainable, but if we chase perfection we can catch excellence.”  
 > — Vince Lombardi
 <!--ENDS_HERE_QUOTE_CARD-->
