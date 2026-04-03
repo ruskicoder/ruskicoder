@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Arise, slay thy enemies, enjoy a prosperous kingdom.”  
+> — Bhagavad Gita
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.”  
 > — Bhagavad Gita
 <!--ENDS_HERE_QUOTE_CARD-->
