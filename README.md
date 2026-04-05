@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Never give way to laziness.”  
+> — Bhagavad Gita
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The soul is neither born, and nor does it die.”  
 > — Bhagavad Gita
 <!--ENDS_HERE_QUOTE_CARD-->
