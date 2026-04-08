@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Lust, anger and greed are the three gates to self-destructive hell.”  
+> — Bhagavad Gita
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.”  
 > — Bhagavad Gita
 <!--ENDS_HERE_QUOTE_CARD-->
