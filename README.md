@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Every man gotta right to decide his own destiny.”  
+> — Bob Marley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Man is made by his belief. As he believes, so he is.”  
 > — Bhagavad Gita
 <!--ENDS_HERE_QUOTE_CARD-->
