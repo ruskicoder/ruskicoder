@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Don't give up the fight, Stand up for your rights.”  
+> — Bob Marley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Don't gain the world and lose your soul. Wisdom is better than silver and gold.”  
 > — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
