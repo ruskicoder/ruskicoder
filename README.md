@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “None but ourselves can free our minds.”  
+> — Bob Marley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “When the root is strong, the fruit is sweet.”  
 > — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
