@@ -71,8 +71,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh that works like Meshtastic | C++ |
-| [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
+| [zalo-linux](https://github.com/ruskicoder/zalo-linux) | A Linux distribution of Zalo app ported from MacOS | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
