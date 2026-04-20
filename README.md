@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “20 percent of your activities will account for 80 percent of your results.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “It doesn't matter where you are, you are nowhere compared to where you can go.”  
 > — Bob Proctor
 <!--ENDS_HERE_QUOTE_CARD-->
