@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “The key to success is action.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “20 percent of your activities will account for 80 percent of your results.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
