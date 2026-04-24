@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
