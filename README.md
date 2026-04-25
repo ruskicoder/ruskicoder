@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Most people achieved their greatest success one step beyond what looked like their greatest failure.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
