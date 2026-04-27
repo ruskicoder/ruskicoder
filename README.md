@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Decide upon your major definite purpose in life and then organize all your activities around it.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Your greatest asset is your earning ability. Your greatest resource is your time.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
