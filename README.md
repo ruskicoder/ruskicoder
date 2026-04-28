@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “You have within you right now, everything you need to deal with whatever the world can throw at you.”  
+> — Brian Tracy
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Decide upon your major definite purpose in life and then organize all your activities around it.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
