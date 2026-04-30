@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “In the middle of chaos lies opportunity.”  
+> — Bruce Lee
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The key to success is to focus our conscious mind on things we desire not things we fear.”  
 > — Brian Tracy
 <!--ENDS_HERE_QUOTE_CARD-->
