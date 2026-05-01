@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “I am who I am today because of the choices I made yesterday.”  
+> — Eleanor Roosevelt
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “In the middle of chaos lies opportunity.”  
 > — Bruce Lee
 <!--ENDS_HERE_QUOTE_CARD-->
