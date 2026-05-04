@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Do not stop thinking of life as an adventure.”  
+> — Eleanor Roosevelt
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Do what you feel in your heart to be right - for you'll be criticized anyway.”  
 > — Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_CARD-->
