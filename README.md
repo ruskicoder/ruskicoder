@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “It's OK to have your eggs in one basket as long as you control what happens to that basket.”  
+> — Elon Musk
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The giving of love is an education in itself.”  
 > — Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_CARD-->
