@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.”  
+> — Elon Musk
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “It's OK to have your eggs in one basket as long as you control what happens to that basket.”  
 > — Elon Musk
 <!--ENDS_HERE_QUOTE_CARD-->
