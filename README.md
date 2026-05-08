@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.”  
+> — Elon Musk
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.”  
 > — Elon Musk
 <!--ENDS_HERE_QUOTE_CARD-->
