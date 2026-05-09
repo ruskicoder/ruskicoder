@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We have a duty to maintain the light of consciousness to make sure it continues into the future.”  
+> — Elon Musk
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.”  
 > — Elon Musk
 <!--ENDS_HERE_QUOTE_CARD-->
