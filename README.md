@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Sad thing is, you can still love someone and be wrong for them.”  
+> — Elvis Presley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We have a duty to maintain the light of consciousness to make sure it continues into the future.”  
 > — Elon Musk
 <!--ENDS_HERE_QUOTE_CARD-->
