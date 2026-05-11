@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Animals don't hate, and we're supposed to be better than them.”  
+> — Elvis Presley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Sad thing is, you can still love someone and be wrong for them.”  
 > — Elvis Presley
 <!--ENDS_HERE_QUOTE_CARD-->
