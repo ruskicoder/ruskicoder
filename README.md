@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “People think you're crazy if you talk about things they don't understand.”  
+> — Elvis Presley
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “When things go wrong, don't go with them.”  
 > — Elvis Presley
 <!--ENDS_HERE_QUOTE_CARD-->
