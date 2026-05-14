@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.”  
+> — Emily Dickinson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “People think you're crazy if you talk about things they don't understand.”  
 > — Elvis Presley
 <!--ENDS_HERE_QUOTE_CARD-->
