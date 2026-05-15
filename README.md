@@ -70,8 +70,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh that works like Meshtastic | C++ |
+| [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
