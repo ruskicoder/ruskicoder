@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Till it has loved, no man or woman can become itself.”  
+> — Emily Dickinson
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To be alive - is Power.”  
 > — Emily Dickinson
 <!--ENDS_HERE_QUOTE_CARD-->
