@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Rudeness is the weak man's imitation of strength.”  
+> — Eric Hoffer
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The soul should always stand ajar, ready to welcome the ecstatic experience.”  
 > — Emily Dickinson
 <!--ENDS_HERE_QUOTE_CARD-->
