@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We lie the loudest when we lie to ourselves.”  
+> — Eric Hoffer
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The greatest weariness comes from work not done.”  
 > — Eric Hoffer
 <!--ENDS_HERE_QUOTE_CARD-->
