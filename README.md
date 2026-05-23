@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “People who bite the hand that feeds them usually lick the boot that kicks them.”  
+> — Eric Hoffer
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “We lie the loudest when we lie to ourselves.”  
 > — Eric Hoffer
 <!--ENDS_HERE_QUOTE_CARD-->
