@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “When people are free to do as they please, they usually imitate each other.”  
+> — Eric Hoffer
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “To be fully alive is to feel that everything is possible.”  
 > — Eric Hoffer
 <!--ENDS_HERE_QUOTE_CARD-->
