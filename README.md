@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “It still holds true that man is most uniquely human when he turns obstacles into opportunities.”  
+> — Eric Hoffer
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “It is startling to realize how much unbelief is necessary to make belief possible.”  
 > — Eric Hoffer
 <!--ENDS_HERE_QUOTE_CARD-->
