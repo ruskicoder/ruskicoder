@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Question everything. Learn something. Answer nothing.”  
+> — Euripides
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.”  
 > — Eric Hoffer
 <!--ENDS_HERE_QUOTE_CARD-->
