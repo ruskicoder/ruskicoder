@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “I can live without money, but I cannot live without love.”  
+> — Judy Garland
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “The greatest treasures are those invisible to the eye but found by the heart.”  
 > — Judy Garland
 <!--ENDS_HERE_QUOTE_CARD-->
