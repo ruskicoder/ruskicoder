@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Behind every cloud is another cloud.”  
+> — Judy Garland
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Always be a first rate version of yourself and not a second rate version of someone else.”  
 > — Judy Garland
 <!--ENDS_HERE_QUOTE_CARD-->
