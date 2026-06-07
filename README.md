@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “If you have to be in a soap opera try not to be cast in the worst role.”  
+> — Judy Garland
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Behind every cloud is another cloud.”  
 > — Judy Garland
 <!--ENDS_HERE_QUOTE_CARD-->
