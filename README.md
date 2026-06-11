@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Rest in reason; move in passion.”  
+> — Kahlil Gibran
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “You may forget with whom you laughed, but you will never forget with whom you wept.”  
 > — Kahlil Gibran
 <!--ENDS_HERE_QUOTE_CARD-->
