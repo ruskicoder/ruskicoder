@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “Perplexity is the beginning of knowledge.”  
+> — Kahlil Gibran
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”  
 > — Kahlil Gibran
 <!--ENDS_HERE_QUOTE_CARD-->
