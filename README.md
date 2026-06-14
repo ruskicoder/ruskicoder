@@ -83,6 +83,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
+> “We are all like the bright moon, we still have our darker side.”  
+> — Kahlil Gibran
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--STARTS_HERE_QUOTE_CARD-->
 > “Perplexity is the beginning of knowledge.”  
 > — Kahlil Gibran
 <!--ENDS_HERE_QUOTE_CARD-->
