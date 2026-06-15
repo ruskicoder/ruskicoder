@@ -19,11 +19,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: `AWS`
-- 🌱 Learning: `AWS`, `Typescript`, `Springboot`
-- 💬 Ask me about: Clean architecture, API design, debugging workflows, dev tooling
-- 🧪 Interests: Observability, performance optimization, automation
-- 🤝 Open to collaborating on: Developer productivity tools & OSS utilities
+- 🔭 Currently working on: `Springboot`, `Embedded C`, `PCB design`
+- 🌱 Learning: `React advanced`, `PlatformIO`, `PCB Design`
+- 💬 Ask me about: `IOT related`, `embedded`, `software solutions`, `ideas`
+- 🧪 Interests: `Defense tech`, `embedded`, `IOT`, `RF`, `Telecommunications`, `advanced weaponry tech`, `efficient workflow`
+- 🤝 Open to collaborating on: `IOT projects`, `web apps`, `hardware projects`
 
 > “Code is read much more often than it is written — optimize for the reader.”
 
@@ -32,9 +32,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 🧰 Tech Stack
 
 <!-- Skill Icons (Replace / prune as needed) -->
-![Frontend & Tooling Icons](https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css)
-![Backend & Data Icons](https://skillicons.dev/icons?i=java,spring,c,lua)
-![DevOps & Cloud Icons](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github)
+![Frontend & Tooling Icons](https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vite)
+![Backend & Data Icons](https://skillicons.dev/icons?i=java,spring,py,c,cpp,postgres,mongodb)
+![DevOps & Cloud Icons](https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions)
 
 
 <!-- If an icon is missing, grab one from simpleicons.org and embed manually -->
@@ -107,12 +107,12 @@ Passionate about building reliable software, exploring open-source, and sharing 
 
 ---
 
-## 🎯 Goals (2025)
+## 🎯 Goals (2026)
 
-- Ship a polished OSS library adopted by 100+ developers
-- Improve CI/CD pipelines with smarter test selection
-- Write 6+ technical articles / deep dives
-- Contribute to 3 other maintainers' projects meaningfully
+- Explore new technologies
+- Deep dive PCB design + embedded
+- Enhance efficiency of development towards AI efficient workflow
+- Learn a new language + get fluent
 
 ---
 
@@ -121,7 +121,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!-- Icon sizes can be adjusted uniformly by changing width attribute -->
 <p align="center">
   <a href="https://github.com/ruskicoder" title="GitHub"><img src="assets/img/github.png" alt="GitHub" width="48" /></a>
-  <a href="mailto:khoado7577@gmail.com" title="Email"><img src="assets/img/gmail.png" alt="Email" width="48" /></a>
+  <a href="mailto:khoado.fpt@gmail.com" title="Email"><img src="assets/img/gmail.png" alt="Email" width="48" /></a>
   <a href="https://Linkedin.com/in/đỗ-đăng-khoa-573776308/" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn" width="48" /></a>
   
   <!-- Add more icons: X/Twitter, Mastodon, Dev.to, etc. Place assets in assets/img/ -->
@@ -129,8 +129,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 
 <!-- Markdown fallback / screen reader friendly (kept for accessibility):
 - GitHub: https://github.com/ruskicoder
-- Email: <add email>
-- LinkedIn: https://www.linkedin.com/in/<add-handle>
+- Email: khoado.fpt@gmail.com
+- LinkedIn: https://Linkedin.com/in/đỗ-đăng-khoa-573776308/
 - Instagram: https://instagram.com/<add-handle>
 -->
 
