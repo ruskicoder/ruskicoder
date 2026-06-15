@@ -19,11 +19,11 @@ Passionate about building reliable software, exploring open-source, and sharing 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: `Springboot`, `Embedded C`, `PCB design`
-- 🌱 Learning: `React advanced`, `PlatformIO`, `PCB Design`
-- 💬 Ask me about: `IOT related`, `embedded`, `software solutions`, `ideas`
-- 🧪 Interests: `Defense tech`, `embedded`, `IOT`, `RF`, `Telecommunications`, `advanced weaponry tech`, `efficient workflow`
-- 🤝 Open to collaborating on: `IOT projects`, `web apps`, `hardware projects`
+- 🔭 Currently working on: Custom PCB design, Embedded C firmware, and Java/Spring Boot backends
+- 🌱 Learning: Advanced React architectures, PlatformIO environments, and RF/multi-layer PCB layout
+- 💬 Ask me about: IoT architecture, embedded systems engineering, hardware-software integration, and product prototyping
+- 🧪 Interests: Defense technology, RF/telecommunication systems, embedded hardware, and optimized developer workflows
+- 🤝 Open to collaborating on: IoT products, full-stack web applications, and hardware design/co-design projects
 
 > “Code is read much more often than it is written — optimize for the reader.”
 
@@ -122,7 +122,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <p align="center">
   <a href="https://github.com/ruskicoder" title="GitHub"><img src="assets/img/github.png" alt="GitHub" width="48" /></a>
   <a href="mailto:khoado.fpt@gmail.com" title="Email"><img src="assets/img/gmail.png" alt="Email" width="48" /></a>
-  <a href="https://Linkedin.com/in/đỗ-đăng-khoa-573776308/" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn" width="48" /></a>
+  <a href="https://www.linkedin.com/in/ruskicoder/" title="LinkedIn"><img src="assets/img/linkedin.png" alt="LinkedIn" width="48" /></a>
   
   <!-- Add more icons: X/Twitter, Mastodon, Dev.to, etc. Place assets in assets/img/ -->
 </p>
@@ -130,7 +130,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!-- Markdown fallback / screen reader friendly (kept for accessibility):
 - GitHub: https://github.com/ruskicoder
 - Email: khoado.fpt@gmail.com
-- LinkedIn: https://Linkedin.com/in/đỗ-đăng-khoa-573776308/
+- LinkedIn: https://www.linkedin.com/in/ruskicoder/
 - Instagram: https://instagram.com/<add-handle>
 -->
 
