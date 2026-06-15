@@ -72,7 +72,7 @@ function buildCard(q) {
 }
 
 function insertOrReplace(readme, card) {
-  const regex = new RegExp(`${START_MARK}[\s\S]*?${END_MARK}`);
+  const regex = new RegExp(`${START_MARK}[\\s\\S]*?${END_MARK}`);
   if (regex.test(readme)) return readme.replace(regex, card.trim());
   const headingRegex = /##\s+💬\s+Random Dev Quote/;
   if (headingRegex.test(readme)) return readme.replace(headingRegex, m => `${m}\n\n${card.trim()}`);

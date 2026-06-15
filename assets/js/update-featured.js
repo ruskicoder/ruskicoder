@@ -85,7 +85,7 @@ async function buildTable() {
 
 function replaceSection(readme, table) {
   const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, r => `\\${r}`);
-  const re = new RegExp(`${esc(START)}[\r\n]*[\s\S]*?${esc(END)}`);
+  const re = new RegExp(`${esc(START)}[\\r\\n]*[\\s\\S]*?${esc(END)}`);
   if (re.test(readme)) return readme.replace(re, table);
   // Fallback manual slice replacement if both markers present but regex failed (line ending anomalies)
   const startIdx = readme.indexOf(START);
