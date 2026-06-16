@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Yesterday is but today's memory, tomorrow is today's dream.”  
+> “It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.”  
 > — Kahlil Gibran
 <!--ENDS_HERE_QUOTE_CARD-->
 
