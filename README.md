@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Confidence comes from crossing thresholds.”  
+> “Sometimes, the only way to evolve is to open ourselves fully.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
