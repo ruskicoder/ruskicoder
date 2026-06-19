@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Sometimes, the only way to evolve is to open ourselves fully.”  
+> “We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.”  
 > — Kamal Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
