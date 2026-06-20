@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.”  
-> — Kamal Ravikant
+> “Truth is like most opinions - best unexpressed.”  
+> — Kenneth Branagh
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
