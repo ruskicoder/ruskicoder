@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Truth is like most opinions - best unexpressed.”  
+> “It's very strange that the people you love are often the people you're most cruel to.”  
 > — Kenneth Branagh
 <!--ENDS_HERE_QUOTE_CARD-->
 
