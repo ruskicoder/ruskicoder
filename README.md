@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Sometimes you have to shut your eyes, so you can see the real beauty.”  
-> — Kilian Jornet
+> “Silence is a source of great strength.”  
+> — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
