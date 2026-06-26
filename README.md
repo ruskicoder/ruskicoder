@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Silence is a source of great strength.”  
+> “The best fighter is never angry.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
 
