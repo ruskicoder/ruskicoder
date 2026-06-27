@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The best fighter is never angry.”  
+> “Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
 
