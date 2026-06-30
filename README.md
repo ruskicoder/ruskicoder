@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.”  
+> “A journey of a thousand miles begins with a single step.”  
 > — Lao Tzu
 <!--ENDS_HERE_QUOTE_CARD-->
 
