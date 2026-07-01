@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “A journey of a thousand miles begins with a single step.”  
-> — Lao Tzu
+> “Others have seen what is and asked why. I have seen what could be and asked why not”  
+> — Pablo Picasso
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
