@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Others have seen what is and asked why. I have seen what could be and asked why not”  
+> “Only put off until tomorrow what you are willing to die having left undone.”  
 > — Pablo Picasso
 <!--ENDS_HERE_QUOTE_CARD-->
 
