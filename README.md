@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Only put off until tomorrow what you are willing to die having left undone.”  
+> “Everything you can imagine is real.”  
 > — Pablo Picasso
 <!--ENDS_HERE_QUOTE_CARD-->
 
