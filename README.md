@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Everything you can imagine is real.”  
+> “I begin with an idea and then it becomes something else.”  
 > — Pablo Picasso
 <!--ENDS_HERE_QUOTE_CARD-->
 
