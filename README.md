@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “I begin with an idea and then it becomes something else.”  
-> — Pablo Picasso
+> “Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.”  
+> — Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
