@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.”  
+> “If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.”  
 > — Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_CARD-->
 
