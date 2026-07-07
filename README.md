@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.”  
+> “By the practice of meditation, you will find that you are carrying within your heart a portable paradise.”  
 > — Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_CARD-->
 
