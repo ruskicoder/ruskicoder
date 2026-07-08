@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “By the practice of meditation, you will find that you are carrying within your heart a portable paradise.”  
+> “When you are able to employ your will always for constructive purposes, you become the controller of your destiny.”  
 > — Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_CARD-->
 
