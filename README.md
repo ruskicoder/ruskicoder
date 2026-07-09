@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “When you are able to employ your will always for constructive purposes, you become the controller of your destiny.”  
+> “When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.”  
 > — Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_CARD-->
 
