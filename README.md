@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Love never keeps a man from pursuing his destiny.”  
+> “If you think adventure is dangerous, try routine; it is lethal.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
