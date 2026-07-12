@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you think adventure is dangerous, try routine; it is lethal.”  
+> “The world is changed by your example, not by your opinion.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
