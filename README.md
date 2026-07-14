@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you're brave enough to say goodbye, life will reward you with a new hello.”  
+> “Be brave. Take risks. Nothing can substitute experience.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
