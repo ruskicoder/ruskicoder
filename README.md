@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Be brave. Take risks. Nothing can substitute experience.”  
+> “The secret of life is to fall seven times and to get up eight times.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
