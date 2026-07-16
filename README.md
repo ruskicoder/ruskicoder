@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The secret of life is to fall seven times and to get up eight times.”  
+> “Whatever you decide to do, make sure it makes you happy.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
