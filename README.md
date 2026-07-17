@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Whatever you decide to do, make sure it makes you happy.”  
+> “Dreams provide nourishment for the soul, just as a meal does for the body.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
