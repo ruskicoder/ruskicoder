@@ -70,8 +70,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [apk-migrate-tui](https://github.com/ruskicoder/apk-migrate-tui) | Interactive Android APK transfer using Python TUI  | Python |
 | [mln122-game-ecorace](https://github.com/ruskicoder/mln122-game-ecorace) | MLN122 game  | TypeScript |
+| [apk-migrate-tui](https://github.com/ruskicoder/apk-migrate-tui) | Interactive Android APK transfer using Python TUI  | Python |
 | [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
 <!--END_FEATURED_PROJECTS-->
 
