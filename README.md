@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Dreams provide nourishment for the soul, just as a meal does for the body.”  
+> “Stay away from people who makes you feel like you are wasting their time.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
