@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Stay away from people who makes you feel like you are wasting their time.”  
+> “When you repeat a mistake, it is not a mistake anymore: it is a decision.”  
 > — Paulo Coelho
 <!--ENDS_HERE_QUOTE_CARD-->
 
