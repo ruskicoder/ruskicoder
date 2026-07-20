@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “When you repeat a mistake, it is not a mistake anymore: it is a decision.”  
-> — Paulo Coelho
+> “Management is doing things right; leadership is doing the right things.”  
+> — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
