@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Management is doing things right; leadership is doing the right things.”  
+> “Knowledge has to be improved, challenged, and increased constantly, or it vanishes.”  
 > — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
