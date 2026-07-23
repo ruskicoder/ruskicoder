@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The most important thing in communication is to hear what isn't being said.”  
+> “Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.”  
 > — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
