@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.”  
+> “If you want something new, you have to stop doing something old.”  
 > — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
