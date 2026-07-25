@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you want something new, you have to stop doing something old.”  
+> “Until we can manage time, we can manage nothing else.”  
 > — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
