@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Until we can manage time, we can manage nothing else.”  
+> “Strategy is a commodity, execution is an art.”  
 > — Peter Drucker
 <!--ENDS_HERE_QUOTE_CARD-->
 
