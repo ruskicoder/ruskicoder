@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Strategy is a commodity, execution is an art.”  
-> — Peter Drucker
+> “There are two things a person should never be angry at, what they can help, and what they cannot.”  
+> — Plato
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
