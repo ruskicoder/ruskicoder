@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [quizlet-export](https://github.com/ruskicoder/quizlet-export) | Tool for export quizlet flashcards | TypeScript |
 | [opnxpense](https://github.com/ruskicoder/opnxpense) | FOSS Android funds management app | Dart |
 | [mln122-game-ecorace](https://github.com/ruskicoder/mln122-game-ecorace) | MLN122 game  | TypeScript |
-| [apk-migrate-tui](https://github.com/ruskicoder/apk-migrate-tui) | Interactive Android APK transfer using Python TUI  | Python |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
