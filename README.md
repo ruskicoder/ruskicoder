@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The most virtuous are those who content themselves with being virtuous without seeking to appear so.”  
-> — Plato
+> “Instead of being intimidated by the limitations, be inspired to find new ways around them.”  
+> — Ralph Marston
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
