@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Instead of being intimidated by the limitations, be inspired to find new ways around them.”  
+> “Patience expands your options. If you insist on immediate gratification, your choices are severely limited.”  
 > — Ralph Marston
 <!--ENDS_HERE_QUOTE_CARD-->
 
