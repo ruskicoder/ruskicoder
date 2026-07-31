@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
 | [quizlet-export](https://github.com/ruskicoder/quizlet-export) | Tool for export quizlet flashcards | TypeScript |
 | [opnxpense](https://github.com/ruskicoder/opnxpense) | FOSS Android funds management app | Dart |
-| [mln122-game-ecorace](https://github.com/ruskicoder/mln122-game-ecorace) | MLN122 game  | TypeScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
