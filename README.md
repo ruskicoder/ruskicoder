@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Patience expands your options. If you insist on immediate gratification, your choices are severely limited.”  
-> — Ralph Marston
+> “Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.”  
+> — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
