@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.”  
+> “Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
