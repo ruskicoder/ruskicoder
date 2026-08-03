@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.”  
+> “When angry count to ten before you speak. If very angry, count to one hundred.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
