@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “When angry count to ten before you speak. If very angry, count to one hundred.”  
+> “Don't talk about what you have done or what you are going to do.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
