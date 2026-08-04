@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [fustation-tool](https://github.com/ruskicoder/fustation-tool) | extension tools for FUSTATION | TypeScript |
 | [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
 | [quizlet-export](https://github.com/ruskicoder/quizlet-export) | Tool for export quizlet flashcards | TypeScript |
-| [opnxpense](https://github.com/ruskicoder/opnxpense) | FOSS Android funds management app | Dart |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
