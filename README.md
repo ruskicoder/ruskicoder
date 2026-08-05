@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Don't talk about what you have done or what you are going to do.”  
+> “Never put off to tomorrow what you can do to-day.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
