@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Never put off to tomorrow what you can do to-day.”  
+> “I like the dreams of the future better than the history of the past.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
