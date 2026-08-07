@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “I like the dreams of the future better than the history of the past.”  
+> “Be polite to all, but intimate with few.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
