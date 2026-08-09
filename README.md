@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.”  
+> “In matters of style, swim with the current; in matters of principle, stand like a rock.”  
 > — Thomas Jefferson
 <!--ENDS_HERE_QUOTE_CARD-->
 
