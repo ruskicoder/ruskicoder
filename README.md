@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [system-prompts](https://github.com/ruskicoder/system-prompts) | Centralized system prompts for AI agents | TypeScript |
 | [fustation-tool](https://github.com/ruskicoder/fustation-tool) | extension tools for FUSTATION | TypeScript |
 | [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
-| [quizlet-export](https://github.com/ruskicoder/quizlet-export) | Tool for export quizlet flashcards | TypeScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
