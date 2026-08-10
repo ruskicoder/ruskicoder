@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “In matters of style, swim with the current; in matters of principle, stand like a rock.”  
-> — Thomas Jefferson
+> “The quality of your life is determined by the quality of questions you ask.”  
+> — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
