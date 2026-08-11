@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The quality of your life is determined by the quality of questions you ask.”  
+> “Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
