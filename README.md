@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.”  
+> “Everybody's life is either rewarding or an example.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
