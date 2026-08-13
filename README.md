@@ -70,9 +70,9 @@ Passionate about building reliable software, exploring open-source, and sharing 
 <!--START_FEATURED_PROJECTS-->
 | Project | Description | Tech |
 |---------|-------------|------|
+| [system-prompts](https://github.com/ruskicoder/system-prompts) | Centralized system prompts for AI agents | TypeScript |
 | [opnxpense](https://github.com/ruskicoder/opnxpense) | FOSS Android funds management app | Dart |
-| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
-| [fustation-tool](https://github.com/ruskicoder/fustation-tool) | extension tools for FUSTATION | TypeScript |
+| [apk-migrate-tui](https://github.com/ruskicoder/apk-migrate-tui) | Interactive Android APK transfer using Python TUI  | Python |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
