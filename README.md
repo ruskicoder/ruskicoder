@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Everybody's life is either rewarding or an example.”  
+> “Why live an ordinary life, when you can live an extraordinary one.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
