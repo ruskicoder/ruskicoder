@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Why live an ordinary life, when you can live an extraordinary one.”  
+> “As soon as you truly commit to making something happen, the 'how' will reveal itself.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
