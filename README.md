@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “As soon as you truly commit to making something happen, the 'how' will reveal itself.”  
+> “If you can handle rejection, you'll learn to get everything you want.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
