@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you can handle rejection, you'll learn to get everything you want.”  
+> “The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
