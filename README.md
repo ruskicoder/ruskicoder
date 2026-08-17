@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.”  
+> “Most people dabble their way through life, never deciding to master anything in particular.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
