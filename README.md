@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Most people dabble their way through life, never deciding to master anything in particular.”  
+> “In life you need either inspiration or desperation.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
