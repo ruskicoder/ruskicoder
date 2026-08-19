@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “In life you need either inspiration or desperation.”  
+> “Things do not have meaning. We assign meaning to everything.”  
 > — Tony Robbins
 <!--ENDS_HERE_QUOTE_CARD-->
 
