@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Things do not have meaning. We assign meaning to everything.”  
-> — Tony Robbins
+> “It is our experiences that mold us into who we are...during times of adversity our true character will show.”  
+> — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
