@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Greatest success comes just one step beyond the point at which defeat overtakes you.”  
+> “Only those who do nothing at all make no mistakes.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
