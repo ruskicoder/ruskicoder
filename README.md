@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Only those who do nothing at all make no mistakes.”  
+> “The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
