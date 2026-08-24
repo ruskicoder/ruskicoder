@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.”  
+> “You are not what you think you are, You are not what others think you are, You are what you think others think you are.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
