@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You are not what you think you are, You are not what others think you are, You are what you think others think you are.”  
+> “If you want to achieve greatness stop asking for permission.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
