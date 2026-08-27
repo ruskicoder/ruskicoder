@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Knowledge is learning something everyday. Wisdom is letting go of something everyday.”  
+> “The first step toward getting somewhere is to decide that you are not going to stay where you are.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
