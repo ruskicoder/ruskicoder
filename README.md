@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Avoiding failure is to avoid progress.”  
+> “Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.”  
 > — Unknown
 <!--ENDS_HERE_QUOTE_CARD-->
 
