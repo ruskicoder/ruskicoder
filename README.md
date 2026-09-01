@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “On the other side of the clouds is a bright blue sky.”  
-> — Unknown
+> “We are all born ignorant, but one must work hard to remain stupid.”  
+> — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
