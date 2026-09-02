@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “We are all born ignorant, but one must work hard to remain stupid.”  
+> “By failing to prepare, you are preparing to fail.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
