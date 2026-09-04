@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “An investment in knowledge pays the best interest.”  
+> “Well done is better than well said.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
