@@ -71,8 +71,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [system-prompts](https://github.com/ruskicoder/system-prompts) | Centralized system prompts for AI agents | TypeScript |
+| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
 | [opnxpense](https://github.com/ruskicoder/opnxpense) | FOSS Android funds management app | Dart |
-| [apk-migrate-tui](https://github.com/ruskicoder/apk-migrate-tui) | Interactive Android APK transfer using Python TUI  | Python |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
