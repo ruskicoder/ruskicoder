@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Well done is better than well said.”  
+> “He that can have patience can have what he will.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
