@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “He that can have patience can have what he will.”  
+> “You may delay, but time will not.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
