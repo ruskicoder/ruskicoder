@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You may delay, but time will not.”  
+> “Love your enemies, for they tell you your faults.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
