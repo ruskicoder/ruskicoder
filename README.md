@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Being ignorant is not so much a shame, as being unwilling to learn.”  
+> “Whatever is begun in anger, ends in shame.”  
 > — Benjamin Franklin
 <!--ENDS_HERE_QUOTE_CARD-->
 
