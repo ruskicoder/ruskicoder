@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Whatever is begun in anger, ends in shame.”  
-> — Benjamin Franklin
+> “In youth we run into difficulties. In old age difficulties run into us.”  
+> — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
