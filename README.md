@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “In youth we run into difficulties. In old age difficulties run into us.”  
+> “Art is the signature of civilizations.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
