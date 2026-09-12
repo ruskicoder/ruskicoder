@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Art is the signature of civilizations.”  
+> “Anger begins with folly, and ends with repentance.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
