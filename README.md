@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Anger begins with folly, and ends with repentance.”  
+> “I've always tried to go a step past wherever people expected me to end up.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
