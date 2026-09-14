@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “I've always tried to go a step past wherever people expected me to end up.”  
+> “Art is the signature of civilizations.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
