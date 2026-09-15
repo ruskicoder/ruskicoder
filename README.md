@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Art is the signature of civilizations.”  
+> “There are no shortcuts to any place worth going.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
