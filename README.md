@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “There are no shortcuts to any place worth going.”  
+> “You may be disappointed if you fail, but you are doomed if you don't try.”  
 > — Beverly Sills
 <!--ENDS_HERE_QUOTE_CARD-->
 
