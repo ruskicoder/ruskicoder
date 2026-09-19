@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You may be disappointed if you fail, but you are doomed if you don't try.”  
-> — Beverly Sills
+> “Through selfless service, you will always be fruitful and find the fulfillment of your desires.”  
+> — Bhagavad Gita
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
