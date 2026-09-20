@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Through selfless service, you will always be fruitful and find the fulfillment of your desires.”  
-> — Bhagavad Gita
+> “People seldom do what they believe in. They do what is convenient, then repent.”  
+> — Bob Dylan
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
