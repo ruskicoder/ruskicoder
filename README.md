@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “People seldom do what they believe in. They do what is convenient, then repent.”  
+> “To live outside the law, you must be honest.”  
 > — Bob Dylan
 <!--ENDS_HERE_QUOTE_CARD-->
 
