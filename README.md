@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “To live outside the law, you must be honest.”  
+> “When you've got nothing, you've got nothing to lose.”  
 > — Bob Dylan
 <!--ENDS_HERE_QUOTE_CARD-->
 
