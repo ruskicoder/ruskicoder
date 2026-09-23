@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “When you've got nothing, you've got nothing to lose.”  
+> “All I can do is be me, whoever that is.”  
 > — Bob Dylan
 <!--ENDS_HERE_QUOTE_CARD-->
 
