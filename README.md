@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “All I can do is be me, whoever that is.”  
+> “If you want to keep your memories, you first have to live them.”  
 > — Bob Dylan
 <!--ENDS_HERE_QUOTE_CARD-->
 
