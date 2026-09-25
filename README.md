@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you want to keep your memories, you first have to live them.”  
-> — Bob Dylan
+> “Better to die fighting for freedom than be a prisoner all the days of your life.”  
+> — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
