@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Better to die fighting for freedom than be a prisoner all the days of your life.”  
+> “Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.”  
 > — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
 
