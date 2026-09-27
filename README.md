@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.”  
+> “Open your eyes and look within. Are you satisfied with the life you're living?”  
 > — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
 
