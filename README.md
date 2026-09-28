@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Open your eyes and look within. Are you satisfied with the life you're living?”  
+> “Every man gotta right to decide his own destiny.”  
 > — Bob Marley
 <!--ENDS_HERE_QUOTE_CARD-->
 
