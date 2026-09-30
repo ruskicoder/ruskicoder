@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Love the life you live, live the life you love.”  
-> — Bob Marley
+> “The essence of the Way is detachment.”  
+> — Bodhidharma
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
