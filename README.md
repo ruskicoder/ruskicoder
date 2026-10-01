@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The essence of the Way is detachment.”  
-> — Bodhidharma
+> “All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.”  
+> — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
