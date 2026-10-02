@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “All that a man achieves and all that he fails to achieve is the direct result of his own thoughts.”  
+> “You are today where your thoughts have brought you.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
