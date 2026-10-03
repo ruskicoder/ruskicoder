@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You are today where your thoughts have brought you.”  
+> “The dreamers are the saviors of the worlds.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
