@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The dreamers are the saviors of the worlds.”  
+> “No duty is more urgent than that of returning thanks.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
