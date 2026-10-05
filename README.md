@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “No duty is more urgent than that of returning thanks.”  
+> “Circumstances do not make the man, they reveal him.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
