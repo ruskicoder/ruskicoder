@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Circumstances do not make the man, they reveal him.”  
+> “As a man thinketh in his heart, so shall he be.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
