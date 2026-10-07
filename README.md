@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “As a man thinketh in his heart, so shall he be.”  
+> “The outer conditions of a person's life will always be found to reflect their inner beliefs.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
