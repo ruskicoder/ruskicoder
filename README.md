@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The outer conditions of a person's life will always be found to reflect their inner beliefs.”  
+> “Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
