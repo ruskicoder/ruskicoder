@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.”  
+> “They who have conquered doubt and fear have conquered failure.”  
 > — James Allen
 <!--ENDS_HERE_QUOTE_CARD-->
 
