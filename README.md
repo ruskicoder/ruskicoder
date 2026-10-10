@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “They who have conquered doubt and fear have conquered failure.”  
-> — James Allen
+> “The whole of life, from the moment you are born to the moment you die, is a process of learning.”  
+> — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
