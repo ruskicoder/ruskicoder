@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The whole of life, from the moment you are born to the moment you die, is a process of learning.”  
+> “The ability to observe without evaluating is the highest form of intelligence.”  
 > — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
