@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The ability to observe without evaluating is the highest form of intelligence.”  
+> “Real learning comes about when the competitive spirit has ceased.”  
 > — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
