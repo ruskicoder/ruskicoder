@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Real learning comes about when the competitive spirit has ceased.”  
+> “It is truth that liberates, not your effort to be free.”  
 > — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
