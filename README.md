@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.”  
+> “You can only be afraid of what you think you know.”  
 > — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
