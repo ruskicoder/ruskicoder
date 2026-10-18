@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The idea of ourselves is our escape from the fact of what we really are.”  
+> “The significance of life is living.”  
 > — Jiddu Krishnamurti
 <!--ENDS_HERE_QUOTE_CARD-->
 
