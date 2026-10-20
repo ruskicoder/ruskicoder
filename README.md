@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The constant assertion of belief is an indication of fear.”  
-> — Jiddu Krishnamurti
+> “Everyone must choose one of two pains: The pain of discipline or the pain of regret.”  
+> — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
