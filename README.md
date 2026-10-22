@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Don't spend major time on minor things.”  
+> “Living life in style also means living a life of balance.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
