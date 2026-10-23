@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Living life in style also means living a life of balance.”  
+> “Success is not to be pursued, it is to be attracted by the person you become.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
