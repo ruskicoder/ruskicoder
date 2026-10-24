@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Success is not to be pursued, it is to be attracted by the person you become.”  
+> “Take interest and even delight in doing the small things well.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
