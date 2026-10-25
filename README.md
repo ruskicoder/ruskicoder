@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Take interest and even delight in doing the small things well.”  
+> “Formal education will make you a living, self-education will make you a fortune.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
