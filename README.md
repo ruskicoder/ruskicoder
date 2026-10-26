@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Formal education will make you a living, self-education will make you a fortune.”  
+> “Take care of your body. It's the only place you have to live.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
