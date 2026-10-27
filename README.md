@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Take care of your body. It's the only place you have to live.”  
+> “You must either modify your dreams or magnify your skills.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
