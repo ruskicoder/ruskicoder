@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You must either modify your dreams or magnify your skills.”  
+> “When you know what you want, and you want it bad enough, you will find a way to get it.”  
 > — Jim Rohn
 <!--ENDS_HERE_QUOTE_CARD-->
 
