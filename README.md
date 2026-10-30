@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “When you know what you want, and want it bad enough, you will find a way to get it.”  
-> — Jim Rohn
+> “None are more hopelessly enslaved than those who falsely believe they are free.”  
+> — Johann Wolfgang von Goethe
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
