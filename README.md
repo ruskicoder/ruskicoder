@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “None are more hopelessly enslaved than those who falsely believe they are free.”  
+> “To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.”  
 > — Johann Wolfgang von Goethe
 <!--ENDS_HERE_QUOTE_CARD-->
 
