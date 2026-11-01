@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.”  
-> — Johann Wolfgang von Goethe
+> “A goal is a dream with a deadline.”  
+> — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
