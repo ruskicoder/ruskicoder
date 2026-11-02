@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “A goal is a dream with a deadline.”  
+> “Opportunity often comes disguised in the form of misfortune or temporary defeat.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
