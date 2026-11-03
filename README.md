@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Opportunity often comes disguised in the form of misfortune or temporary defeat.”  
+> “It takes half your life before you discover life is a do-it-yourself project.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
