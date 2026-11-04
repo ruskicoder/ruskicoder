@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “It takes half your life before you discover life is a do-it-yourself project.”  
+> “What the mind can conceive, it can achieve.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
