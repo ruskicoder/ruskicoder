@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “No one ever is defeated until defeat has been accepted as a reality.”  
+> “Every failure brings with it the seed of an equivalent success.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
