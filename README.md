@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Every failure brings with it the seed of an equivalent success.”  
+> “Success comes to those who become success conscious.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
