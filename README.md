@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Success comes to those who become success conscious.”  
+> “Whatever your mind can conceive and believe, it can achieve.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
