@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Whatever your mind can conceive and believe, it can achieve.”  
+> “You have a brain and mind of your own. Use it, and reach your own decisions.”  
 > — Napoleon Hill
 <!--ENDS_HERE_QUOTE_CARD-->
 
