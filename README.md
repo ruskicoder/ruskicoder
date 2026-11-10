@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “You have a brain and mind of your own. Use it, and reach your own decisions.”  
-> — Napoleon Hill
+> “A rational person can find peace by cultivating indifference to things outside of their control.”  
+> — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
