@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “A rational person can find peace by cultivating indifference to things outside of their control.”  
+> “If it entertains you now but will bore you someday, it's a distraction. Keep looking.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
