@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If it entertains you now but will bore you someday, it's a distraction. Keep looking.”  
+> “If you try to micromanage yourself all you're going to do is make yourself miserable.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
