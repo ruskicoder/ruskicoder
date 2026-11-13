@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you try to micromanage yourself all you're going to do is make yourself miserable.”  
+> “People spend too much time doing and not enough time thinking about what they should be doing.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
