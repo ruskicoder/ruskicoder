@@ -72,7 +72,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 |---------|-------------|------|
 | [system-prompts](https://github.com/ruskicoder/system-prompts) | Centralized system prompts for AI agents | Python |
 | [fustation-tool](https://github.com/ruskicoder/fustation-tool) | extension tools for FUSTATION | TypeScript |
-| [treklink](https://github.com/ruskicoder/treklink) | An off-grid communication mesh based on Meshtastic | C++ |
+| [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
