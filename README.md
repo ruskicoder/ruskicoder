@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.”  
+> “Every second you have on this planet is very precious and it's your responsibility that you're happy.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
