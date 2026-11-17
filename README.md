@@ -71,8 +71,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [system-prompts](https://github.com/ruskicoder/system-prompts) | Centralized system prompts for AI agents | Python |
+| [fap-aio](https://github.com/ruskicoder/fap-aio) | An All in one FAP extension suite | TypeScript |
 | [fustation-tool](https://github.com/ruskicoder/fustation-tool) | extension tools for FUSTATION | TypeScript |
-| [studocu-tool](https://github.com/ruskicoder/studocu-tool) | A Studocu helper tool to download files. | JavaScript |
 <!--END_FEATURED_PROJECTS-->
 
 <!-- The above block is auto-managed. See .github/workflows/update-featured.yml -->
