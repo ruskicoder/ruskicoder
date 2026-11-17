@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Every second you have on this planet is very precious and it's your responsibility that you're happy.”  
+> “Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
