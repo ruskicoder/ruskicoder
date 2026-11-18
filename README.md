@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.”  
+> “If you see a get rich quick scheme, that's someone else trying to get rich off of you.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
