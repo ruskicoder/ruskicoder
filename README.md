@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “If you see a get rich quick scheme, that's someone else trying to get rich off of you.”  
+> “Meditate. It won't be fun but it will surface what you need to deal with.”  
 > — Naval Ravikant
 <!--ENDS_HERE_QUOTE_CARD-->
 
