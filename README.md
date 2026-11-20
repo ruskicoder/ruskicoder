@@ -83,8 +83,8 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Meditate. It won't be fun but it will surface what you need to deal with.”  
-> — Naval Ravikant
+> “Where violence reigns, reason is weak.”  
+> — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
