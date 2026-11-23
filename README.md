@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.”  
+> “The most wasted day of all is that on which we have not laughed.”  
 > — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
