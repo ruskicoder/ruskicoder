@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “The most wasted day of all is that on which we have not laughed.”  
+> “Public opinion is the worst of all opinions.”  
 > — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
