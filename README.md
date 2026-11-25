@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Public opinion is the worst of all opinions.”  
+> “Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.”  
 > — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
