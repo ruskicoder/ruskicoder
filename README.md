@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.”  
+> “It is passion that makes man live; wisdom makes one only last.”  
 > — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
