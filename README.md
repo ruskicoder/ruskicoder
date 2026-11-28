@@ -83,7 +83,7 @@ Passionate about building reliable software, exploring open-source, and sharing 
 ## 💬 Random Dev Quote
 
 <!--STARTS_HERE_QUOTE_CARD-->
-> “There are more people who wish to be loved than there are who are willing to love.”  
+> “Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.”  
 > — Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_CARD-->
 
